@@ -44,9 +44,21 @@ p = p + xlab("Time")
 p = p + ylab("UK electricity demand (MW)")
 p = p + ggtitle('''Electricity demand during Doctor Who episodes, comparing with "Kill the Moon"\n''')
 
+p = p + geom_vline(xintercept=dateutil.parser.parse("1900-01-01 21:04:10"), color='black', size=1.7, linetype='--')
+
 p = p + scale_x_date(labels = date_format("%H:%M"), breaks='1 hour')
 
-ggsave(p, "out.png")
+fig = p.draw()
+#ax = fig.axes[0]
+#box = ax.get_position()
+#ax.set_position([box.x0, box.y0, box.width, box.height])
+
+fig.savefig("out.png")
+
+#offbox = ax.artists[0]
+#offbox.set_bbox_to_anchor((1, 0.5), ax.transAxes)
+#print(fig)
+#ggsave(p, "out.png")
 
 
 
