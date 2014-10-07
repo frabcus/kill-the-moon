@@ -119,6 +119,9 @@ Electricity data source
 
 Downloaded from the [GridWatch database](http://www.gridwatch.templar.co.uk/download.php).
 
+Thanks to [Owen Boswarva](https://twitter.com/owenboswarva/status/519403407434866688) for
+telling me about this source, and plotting the first graph.
+
 
 Technology
 ----------
