@@ -46,7 +46,7 @@ p = p + ggtitle('''Electricity demand during Doctor Who episodes, comparing with
 
 p = p + scale_x_date(labels = date_format("%H:%M"), breaks='1 hour')
 
-ggsave(p, "foo.png")
+ggsave(p, "out.png")
 
 
 
