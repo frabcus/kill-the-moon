@@ -2,6 +2,8 @@ Kill the Moon Electricity Use
 =============================
 
 
+![Kill the Moon electricity graph](https://raw.githubusercontent.com/frabcus/kill-the-moon/master/out.png)
+
 
 Broadcast times
 ---------------
@@ -14,13 +16,13 @@ Which is to say at: 21:04:10
 
 Previous Doctor Who episode start times:
 
-2014-10-04 20:29:10
-2014-09-27 20:30:00
-2014-09-20 19:30:00
-2014-09-13 19:30:00
-2014-09-06 19:30:00
-2014-08-30 19:30:00
-2014-08-23 19:50:00
+* 2014-10-04 20:29:10
+* 2014-09-27 20:30:00
+* 2014-09-20 19:30:00
+* 2014-09-13 19:30:00
+* 2014-09-06 19:30:00
+* 2014-08-30 19:30:00
+* 2014-08-23 19:50:00
 
 
 
