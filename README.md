@@ -1,4 +1,4 @@
-"Kill the Moon" Electricity Use
+"Kill the Moon" electricity use
 ===============================
 
 Introduction
