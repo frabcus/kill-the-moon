@@ -1,5 +1,16 @@
-Kill the Moon Electricity Use
-=============================
+"Kill the Moon" Electricity Use
+===============================
+
+Purple is the "Kill the Moon" broadcast. Other colours are previous episodes in
+the same season. Note that programmes started at varying times (see later in
+this README).
+
+The dotted line is the time at which Courtney said "night night" as the last
+lights on earth visible to Clara went out - that is to say at the very end of
+the voting when we might expect peak electricity.
+
+Comparisons with previous episodes are to see if irregular jumps in electricity
+are common at that time on a Saturday.
 
 
 ![Kill the Moon electricity graph](https://raw.githubusercontent.com/frabcus/kill-the-moon/master/out.png)
