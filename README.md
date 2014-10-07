@@ -4,12 +4,12 @@
 Introduction
 ------------
 
-On 4th October 2014, the Doctor Who episode "Kill the Moon"featured a gimmick
+On 4th October 2014, the Doctor Who episode "Kill the Moon" featured a gimmick
 which may or may not have caused large numbers of people to turn their lights
 on or off at the same time.
 
 This repository contains code, data and notes for an initial pass at
-seeing if there was any effect.
+seeing if there was any such effect by looking at UK electricity demand.
 
 
 Graph and notes
@@ -32,11 +32,11 @@ are common at that time on a Saturday.
 Broadcast times
 ---------------
 
-Broadcast time: 20:29:10 (http://twidw.doctorwhonews.net/listing.php?bdid=52388)
-35:00 "night night" all the lights go out
+Broadcast time: 20:29:10 ([source](http://twidw.doctorwhonews.net/listing.php?bdid=52388))
+
+35:00 minutes in "night night" all the lights go out (source: iPlayer)
 
 Which is to say at: 21:04:10
-
 
 Previous Doctor Who episode start times:
 
@@ -50,12 +50,10 @@ Previous Doctor Who episode start times:
 
 
 
-Electricity data
-----------------
+Electricity data source
+-----------------------
 
-Downloaded from GridWatch database
-
-http://www.gridwatch.templar.co.uk/download.php
+Downloaded from the [GridWatch database](http://www.gridwatch.templar.co.uk/download.php).
 
 
 
