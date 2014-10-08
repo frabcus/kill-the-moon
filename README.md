@@ -78,7 +78,11 @@ all some other distortion on the day.
 Considering the first spike again... Suppose everyone is turning off a 40W bulb
 (that's Fermi estimate near enough - living room lights probably have more
 lumens on average than a conventional bulb of that wattage, but lots of people
-will be using efficient lights now), 560 MW would be 14000 households.
+will be using efficient lights now), 560 MW would be 14,000,000 households.
+
+14 million households is more than the 4.82 million viewers. Maybe everyone
+rushed to put their Kettle on? Or living room lights have a lot of bulbs
+these days?
 
 
 Conclusion
@@ -88,16 +92,18 @@ All told - visually, the graph is very compelling that electricity use during
 "Kill the Moon" was different from previous weeks. 
 
 There's no real way to be sure it was because of Doctor Who - correlation
-doesn't indicate causation, and there are a few reasons to be suspicious.
+doesn't indicate causation, the jump seems too large, and there are many other
+reasons to be suspicious.
 
-Nevertheless, I like to think that by 14000 households, somewhere in space and
-time, a small island of humans saved a space creature.
+Nevertheless, I like to think that by 14 million households, somewhere in space
+and time, a small island of humans saved a space creature.
 
 
 Broadcast times
 ---------------
 
-Broadcast time: 20:29:10 ([source](http://twidw.doctorwhonews.net/listing.php?bdid=52388))
+Broadcast time: 20:29:10 ([source](http://twidw.doctorwhonews.net/listing.php?bdid=52388)) - also
+there were 4.82 million viewers there.
 
 35:00 minutes in "night night" all the lights go out (source: iPlayer)
 
